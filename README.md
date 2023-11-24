@@ -1,1 +1,2 @@
-# ESP32_MQTT_ESP-IDF
+# Version
+This uses PIR sensor, it publishes data when motion is detected.
